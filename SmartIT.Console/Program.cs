@@ -11,6 +11,7 @@ namespace SmartIT.Console
 
             Employee employee = new Employee() { Id = 1, Name = "Jen" };
             employee.DDump("Employee");
+            // End
         }
     }
 
